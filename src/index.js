@@ -1,4 +1,4 @@
-var bin = require("bin_encoding");
+var bin = require("@nathanfaucett/bin_encoding");
 
 
 var utf8 = exports;
